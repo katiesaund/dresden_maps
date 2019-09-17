@@ -1,7 +1,5 @@
-# dresden_maps
-Locations from The Dresden Files. 
-
-Data file to be used for [my R tutorial on maps](https://katiesaund.com/post/dresden_maps/). 
+# Dresden Maps
+Contains a data file with locations from The Dresden Files. The data file is to be used for [my map tutorial in R](https://katiesaund.com/post/dresden_maps/). 
 
 
 To access the data, download the file, then:
