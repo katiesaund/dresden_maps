@@ -26,3 +26,12 @@ To access the data download the .tsv file and then run the following code in R:
 `Lat` is the location's latitude as determined by Google Maps.   
 `Long` is the location's longitude as determined by Google Maps.   
   
+Use this data to make maps like these:   
+
+All of the locations:  
+![](https://github.com/katiesaund/dresden_maps/blob/master/img/including_book_maps_animation.gif) 
+  
+  
+Adding each books locations, one by one:  
+![](https://github.com/katiesaund/dresden_maps/blob/master/img/all_locations.png) 
+  
