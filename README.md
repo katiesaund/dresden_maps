@@ -29,9 +29,9 @@ To access the data download the .tsv file and then run the following code in R:
 Use this data to make maps like these:   
 
 All of the locations:  
-![](https://github.com/katiesaund/dresden_maps/blob/master/img/including_book_maps_animation.gif) 
-  
+![](https://github.com/katiesaund/dresden_maps/blob/master/img/all_locations.png) 
   
 Adding each books locations, one by one:  
-![](https://github.com/katiesaund/dresden_maps/blob/master/img/all_locations.png) 
+![](https://github.com/katiesaund/dresden_maps/blob/master/img/including_book_maps_animation.gif) 
+
   
